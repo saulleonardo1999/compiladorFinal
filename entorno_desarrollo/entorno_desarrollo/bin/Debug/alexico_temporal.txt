@@ -1,0 +1,134 @@
+program
+keyword
+{
+LLave que abre
+int
+keyword
+x
+Identificador
+,
+Coma
+y
+Identificador
+;
+Delimitador
+float
+keyword
+a
+Identificador
+,
+Coma
+b
+Identificador
+;
+Delimitador
+x
+Identificador
+=
+Simbolo Asignacion
+5
+Numero
+;
+Delimitador
+y
+Identificador
+=
+Simbolo Asignacion
+4
+Numero
+;
+Delimitador
+a
+Identificador
+=
+Simbolo Asignacion
+0.0
+Numero
+;
+Delimitador
+b
+Identificador
+=
+Simbolo Asignacion
+3.0
+Numero
+;
+Delimitador
+if
+keyword
+(
+Parentesis que abre
+x
+Identificador
+<
+Comparacion Menor que
+y
+Identificador
+)
+Parentesis que cierra
+{
+LLave que abre
+y
+Identificador
+=
+Simbolo Asignacion
+y
+Identificador
+-
+Operador Resta
+1
+Numero
+;
+Delimitador
+}
+Llave que cierra
+else
+keyword
+{
+LLave que abre
+x
+Identificador
+=
+Simbolo Asignacion
+x
+Identificador
+-
+Operador Resta
+2
+Numero
+;
+Delimitador
+a
+Identificador
+=
+Simbolo Asignacion
+a
+Identificador
+*
+Operador Multiplicacion
+x
+Identificador
++
+Operador Suma
+b
+Identificador
+;
+Delimitador
+y
+Identificador
+=
+Simbolo Asignacion
+y
+Identificador
+-
+Operador Resta
+1
+Numero
+;
+Delimitador
+}
+Llave que cierra
+fi
+keyword
+}
+Llave que cierra

@@ -1,0 +1,5 @@
+program{
+int x,a;
+float y;
+x=2;
+}

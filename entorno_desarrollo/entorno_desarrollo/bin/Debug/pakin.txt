@@ -1,0 +1,9 @@
+program{
+int a,b,c;
+float y;
+a= 2+3*5;
+b=a;
+c=a+b+2;
+y= 2.4;
+a=2;
+}

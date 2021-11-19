@@ -1,0 +1,24 @@
+
+int x
+int y
+float a
+float g
+bool c
+bool d
+Asignación a la variable c bool
+Error: variable true is not defined in the line true
+asignacion incorrecta en linea 5 lexema true
+Asignación a la variable x int
+Asignación a la variable y int
+Asignación a la variable a float
+Asignación a la variable g float
+Asignación a la variable y int
+Asignación a la variable x int
+Asignación a la variable a float
+Asignación a la variable y int
+Eliminada variable de instancia x
+Eliminada variable de instancia y
+Eliminada variable de instancia a
+Eliminada variable de instancia g
+Eliminada variable de instancia c
+Eliminada variable de instancia d

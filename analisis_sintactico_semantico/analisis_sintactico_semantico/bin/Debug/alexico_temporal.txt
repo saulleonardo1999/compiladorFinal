@@ -1,0 +1,48 @@
+program
+Identificador
+{
+LLave que abre
+int
+keyword
+a
+Identificador
+,
+Coma
+b
+Identificador
+;
+Delimitador
+a
+Identificador
+=
+Simbolo Asignacion
+5
+Numero
+;
+Delimitador
+b
+Identificador
+=
+Simbolo Asignacion
+6
+Numero
+;
+Delimitador
+while
+keyword
+(
+Parentesis que abre
+a
+Identificador
+>
+Comparacion Mayor que
+b
+Identificador
+)
+Parentesis que cierra
+{
+LLave que abre
+}
+Llave que cierra
+}
+Llave que cierra

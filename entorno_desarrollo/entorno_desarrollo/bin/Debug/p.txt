@@ -1,0 +1,8 @@
+program{
+int a,b;
+a=5;
+b=6;
+while((b+25)<(56*5)){
+a=a+5;
+}
+}

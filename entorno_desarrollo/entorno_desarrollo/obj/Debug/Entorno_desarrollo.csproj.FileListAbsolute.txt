@@ -1,0 +1,97 @@
+C:\Users\Ricardo\Documents\SharpDevelop Projects\Entorno_desarrollo\Entorno_desarrollo\bin\Debug\Entorno_desarrollo.exe
+C:\Users\Ricardo\Documents\SharpDevelop Projects\Entorno_desarrollo\Entorno_desarrollo\bin\Debug\Entorno_desarrollo.pdb
+C:\Users\Ricardo\Documents\SharpDevelop Projects\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Documents\SharpDevelop Projects\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.exe
+C:\Users\Ricardo\Documents\SharpDevelop Projects\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.pdb
+C:\Users\Ricardo\Documents\SharpDevelop Projects\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.MainForm.resources
+C:\Users\Ricardo\Documents\SharpDevelop Projects\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.csproj.GenerateResource.Cache
+C:\Users\Ricardo\Documents\SharpDevelop Projects\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.Imagenes.resources
+C:\Users\Ricardo\Documents\Entorno_desarrollo\Entorno_desarrollo\bin\Debug\Entorno_desarrollo.exe
+C:\Users\Ricardo\Documents\Entorno_desarrollo\Entorno_desarrollo\bin\Debug\Entorno_desarrollo.pdb
+C:\Users\Ricardo\Documents\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Documents\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.Imagenes.resources
+C:\Users\Ricardo\Documents\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.MainForm.resources
+C:\Users\Ricardo\Documents\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.csproj.GenerateResource.Cache
+C:\Users\Ricardo\Documents\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.exe
+C:\Users\Ricardo\Documents\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.pdb
+C:\Users\Ricardo\Downloads\Primer_Fase\Entorno_desarrollo\Entorno_desarrollo\bin\Debug\Entorno_desarrollo.exe
+C:\Users\Ricardo\Downloads\Primer_Fase\Entorno_desarrollo\Entorno_desarrollo\bin\Debug\Entorno_desarrollo.pdb
+C:\Users\Ricardo\Downloads\Primer_Fase\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ricardo\Downloads\Primer_Fase\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.Imagenes.resources
+C:\Users\Ricardo\Downloads\Primer_Fase\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.MainForm.resources
+C:\Users\Ricardo\Downloads\Primer_Fase\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Ricardo\Downloads\Primer_Fase\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Ricardo\Downloads\Primer_Fase\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.exe
+C:\Users\Ricardo\Downloads\Primer_Fase\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.pdb
+C:\Users\Ricardo\Downloads\Segunda_Fase\Entorno_desarrollo\Entorno_desarrollo\bin\Debug\Entorno_desarrollo.exe
+C:\Users\Ricardo\Downloads\Segunda_Fase\Entorno_desarrollo\Entorno_desarrollo\bin\Debug\Entorno_desarrollo.pdb
+C:\Users\Ricardo\Downloads\Segunda_Fase\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ricardo\Downloads\Segunda_Fase\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.Imagenes.resources
+C:\Users\Ricardo\Downloads\Segunda_Fase\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.MainForm.resources
+C:\Users\Ricardo\Downloads\Segunda_Fase\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Ricardo\Downloads\Segunda_Fase\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Ricardo\Downloads\Segunda_Fase\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.exe
+C:\Users\Ricardo\Downloads\Segunda_Fase\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.pdb
+C:\Users\Ricardo\Downloads\Tercera_Fase\Entorno_desarrollo\Entorno_desarrollo\bin\Debug\Entorno_desarrollo.exe
+C:\Users\Ricardo\Downloads\Tercera_Fase\Entorno_desarrollo\Entorno_desarrollo\bin\Debug\Entorno_desarrollo.pdb
+C:\Users\Ricardo\Downloads\Tercera_Fase\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ricardo\Downloads\Tercera_Fase\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.Imagenes.resources
+C:\Users\Ricardo\Downloads\Tercera_Fase\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.MainForm.resources
+C:\Users\Ricardo\Downloads\Tercera_Fase\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Ricardo\Downloads\Tercera_Fase\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Ricardo\Downloads\Tercera_Fase\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.exe
+C:\Users\Ricardo\Downloads\Tercera_Fase\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.pdb
+C:\Users\Ricardo\Downloads\Compilador\Entorno_desarrollo\Entorno_desarrollo\bin\Debug\Entorno_desarrollo.exe
+C:\Users\Ricardo\Downloads\Compilador\Entorno_desarrollo\Entorno_desarrollo\bin\Debug\Entorno_desarrollo.pdb
+C:\Users\Ricardo\Downloads\Compilador\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ricardo\Downloads\Compilador\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.Imagenes.resources
+C:\Users\Ricardo\Downloads\Compilador\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.MainForm.resources
+C:\Users\Ricardo\Downloads\Compilador\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Ricardo\Downloads\Compilador\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Ricardo\Downloads\Compilador\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.exe
+C:\Users\Ricardo\Downloads\Compilador\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.pdb
+C:\Users\iscmau\Desktop\Compilador\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.exe
+C:\Users\iscmau\Desktop\Compilador\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.pdb
+C:\Users\iscmau\Desktop\Compilador\Entorno_desarrollo\Entorno_desarrollo\bin\Debug\Entorno_desarrollo.exe
+C:\Users\iscmau\Desktop\Compilador\Entorno_desarrollo\Entorno_desarrollo\bin\Debug\Entorno_desarrollo.pdb
+C:\Users\iscmau\Desktop\Compilador\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\iscmau\Desktop\Compilador\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.Imagenes.resources
+C:\Users\iscmau\Desktop\Compilador\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.MainForm.resources
+C:\Users\iscmau\Desktop\Compilador\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\iscmau\Desktop\Compilador\Entorno_desarrollo\Entorno_desarrollo\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\MAGEL\Desktop\magel\uaa\7-B\Compiladores II\Compilador-llto\Compilador\entorno_desarrollo\Entorno_desarrollo\bin\Debug\Entorno_desarrollo.exe
+C:\Users\MAGEL\Desktop\magel\uaa\7-B\Compiladores II\Compilador-llto\Compilador\entorno_desarrollo\Entorno_desarrollo\bin\Debug\Entorno_desarrollo.pdb
+C:\Users\MAGEL\Desktop\magel\uaa\7-B\Compiladores II\Compilador-llto\Compilador\entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.csprojResolveAssemblyReference.cache
+C:\Users\MAGEL\Desktop\magel\uaa\7-B\Compiladores II\Compilador-llto\Compilador\entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.Imagenes.resources
+C:\Users\MAGEL\Desktop\magel\uaa\7-B\Compiladores II\Compilador-llto\Compilador\entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.MainForm.resources
+C:\Users\MAGEL\Desktop\magel\uaa\7-B\Compiladores II\Compilador-llto\Compilador\entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.csproj.GenerateResource.Cache
+C:\Users\MAGEL\Desktop\magel\uaa\7-B\Compiladores II\Compilador-llto\Compilador\entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.exe
+C:\Users\MAGEL\Desktop\magel\uaa\7-B\Compiladores II\Compilador-llto\Compilador\entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.pdb
+C:\Users\enriquerosales\Downloads\Compilador-llto\Compilador\entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.exe
+C:\Users\enriquerosales\Downloads\Compilador-llto\Compilador\entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.pdb
+C:\Users\saull\Desktop\Compilador-llto\Compilador\entorno_desarrollo\Entorno_desarrollo\bin\Debug\Entorno_desarrollo.exe
+C:\Users\saull\Desktop\Compilador-llto\Compilador\entorno_desarrollo\Entorno_desarrollo\bin\Debug\Entorno_desarrollo.pdb
+C:\Users\saull\Desktop\Compilador-llto\Compilador\entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.Imagenes.resources
+C:\Users\saull\Desktop\Compilador-llto\Compilador\entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.MainForm.resources
+C:\Users\saull\Desktop\Compilador-llto\Compilador\entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.csproj.GenerateResource.cache
+C:\Users\saull\Desktop\Compilador-llto\Compilador\entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.csproj.CoreCompileInputs.cache
+C:\Users\saull\Desktop\Compilador-llto\Compilador\entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.exe
+C:\Users\saull\Desktop\Compilador-llto\Compilador\entorno_desarrollo\Entorno_desarrollo\obj\Debug\Entorno_desarrollo.pdb
+C:\Users\sebas\Desktop\Universidad\Compiladores\compiladorII\entorno_desarrollo\entorno_desarrollo\bin\Debug\Entorno_desarrollo.exe
+C:\Users\sebas\Desktop\Universidad\Compiladores\compiladorII\entorno_desarrollo\entorno_desarrollo\bin\Debug\Entorno_desarrollo.pdb
+C:\Users\sebas\Desktop\Universidad\Compiladores\compiladorII\entorno_desarrollo\entorno_desarrollo\obj\Debug\Entorno_desarrollo.csproj.AssemblyReference.cache
+C:\Users\sebas\Desktop\Universidad\Compiladores\compiladorII\entorno_desarrollo\entorno_desarrollo\obj\Debug\Entorno_desarrollo.Imagenes.resources
+C:\Users\sebas\Desktop\Universidad\Compiladores\compiladorII\entorno_desarrollo\entorno_desarrollo\obj\Debug\Entorno_desarrollo.MainForm.resources
+C:\Users\sebas\Desktop\Universidad\Compiladores\compiladorII\entorno_desarrollo\entorno_desarrollo\obj\Debug\Entorno_desarrollo.csproj.GenerateResource.cache
+C:\Users\sebas\Desktop\Universidad\Compiladores\compiladorII\entorno_desarrollo\entorno_desarrollo\obj\Debug\Entorno_desarrollo.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Desktop\Universidad\Compiladores\compiladorII\entorno_desarrollo\entorno_desarrollo\obj\Debug\Entorno_desarrollo.exe
+C:\Users\sebas\Desktop\Universidad\Compiladores\compiladorII\entorno_desarrollo\entorno_desarrollo\obj\Debug\Entorno_desarrollo.pdb
+C:\Users\saull\Documents\Compiler2\compiladorII\entorno_desarrollo\entorno_desarrollo\bin\Debug\Entorno_desarrollo.exe
+C:\Users\saull\Documents\Compiler2\compiladorII\entorno_desarrollo\entorno_desarrollo\bin\Debug\Entorno_desarrollo.pdb
+C:\Users\saull\Documents\Compiler2\compiladorII\entorno_desarrollo\entorno_desarrollo\obj\Debug\Entorno_desarrollo.Imagenes.resources
+C:\Users\saull\Documents\Compiler2\compiladorII\entorno_desarrollo\entorno_desarrollo\obj\Debug\Entorno_desarrollo.MainForm.resources
+C:\Users\saull\Documents\Compiler2\compiladorII\entorno_desarrollo\entorno_desarrollo\obj\Debug\Entorno_desarrollo.csproj.GenerateResource.cache
+C:\Users\saull\Documents\Compiler2\compiladorII\entorno_desarrollo\entorno_desarrollo\obj\Debug\Entorno_desarrollo.csproj.CoreCompileInputs.cache
+C:\Users\saull\Documents\Compiler2\compiladorII\entorno_desarrollo\entorno_desarrollo\obj\Debug\Entorno_desarrollo.exe
+C:\Users\saull\Documents\Compiler2\compiladorII\entorno_desarrollo\entorno_desarrollo\obj\Debug\Entorno_desarrollo.pdb
+C:\Users\saull\Documents\Compiler2\compiladorII\entorno_desarrollo\entorno_desarrollo\obj\Debug\Entorno_desarrollo.csprojAssemblyReference.cache

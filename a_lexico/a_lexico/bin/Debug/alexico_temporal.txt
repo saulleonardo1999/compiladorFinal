@@ -1,0 +1,18 @@
+program
+keyword
+int
+keyword
+x
+Identificador
+,
+Coma
+y
+Identificador
+,
+Coma
+z
+Identificador
+;
+Delimitador
+}
+Llave que cierra

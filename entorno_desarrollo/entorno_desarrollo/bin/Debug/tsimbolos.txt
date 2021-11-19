@@ -1,0 +1,12 @@
+a
+FLOAT
+3
+b
+FLOAT
+3
+x
+INT
+3
+y
+INT
+2

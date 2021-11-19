@@ -1,0 +1,10 @@
+C:\Users\Ricardo\Documents\SharpDevelop Projects\a_lexico\a_lexico\bin\Debug\a_lexico.exe
+C:\Users\Ricardo\Documents\SharpDevelop Projects\a_lexico\a_lexico\bin\Debug\a_lexico.pdb
+C:\Users\Ricardo\Documents\SharpDevelop Projects\a_lexico\a_lexico\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ricardo\Documents\SharpDevelop Projects\a_lexico\a_lexico\obj\Debug\a_lexico.exe
+C:\Users\Ricardo\Documents\SharpDevelop Projects\a_lexico\a_lexico\obj\Debug\a_lexico.pdb
+C:\Users\Edo\Documents\Compiladores\Semantico Sexy\Compilador\a_lexico\a_lexico\bin\Debug\a_lexico.exe
+C:\Users\Edo\Documents\Compiladores\Semantico Sexy\Compilador\a_lexico\a_lexico\bin\Debug\a_lexico.pdb
+C:\Users\Edo\Documents\Compiladores\Semantico Sexy\Compilador\a_lexico\a_lexico\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Edo\Documents\Compiladores\Semantico Sexy\Compilador\a_lexico\a_lexico\obj\Debug\a_lexico.exe
+C:\Users\Edo\Documents\Compiladores\Semantico Sexy\Compilador\a_lexico\a_lexico\obj\Debug\a_lexico.pdb

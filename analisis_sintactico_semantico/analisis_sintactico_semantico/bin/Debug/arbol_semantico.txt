@@ -1,0 +1,13 @@
+  Program  (li.1)
+    Declaration int (li.2)
+      Id: a (li.2) VALOR: 
+      Id: b (li.3) VALOR: 
+    Assign to: a (li.3) VALOR: 5
+      Num: 5 (li.3)
+    Assign to: b (li.4) VALOR: 6
+      Num: 6 (li.4)
+    While  (li.5) VALOR: False
+      Op: GT (li.6) VALOR: False
+        Id: a (li.5) VALOR: 5
+        Id: b (li.6) VALOR: 6
+      Bloque (li.6)
